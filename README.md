@@ -52,4 +52,4 @@ https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
 ## Contributors
 
-[Your Name]
+Michael Andia
