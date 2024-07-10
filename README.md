@@ -17,7 +17,7 @@ This project is an interactive dashboard to explore the Belly Button Biodiversit
 - JavaScript
 - D3.js for data manipulation and binding
 - Plotly.js for creating the charts
-- HTML/CSS for structure and styling
+- HTML for structure
 
 ## How to Use
 
@@ -35,7 +35,6 @@ https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
 - `index.html`: The main HTML file that structures the dashboard
 - `static/js/app.js`: The JavaScript file containing the logic for creating and updating the charts
-- `static/css/style.css`: (If applicable) CSS file for additional styling
 
 ## Functions
 
